@@ -19,5 +19,8 @@
     "nodemon": "^3.0.1",
     "punycode": "^2.3.1"
   },
-  "keywords": []
+  "keywords": [],
+  "devDependencies": {
+    "ajv": "^7.2.4"
+  }
 }
